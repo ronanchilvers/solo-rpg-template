@@ -5,8 +5,9 @@ created: 2023-07-07 11:29
 
 # Adventure seed
 
+![[cypher-system.png|right|200]]
 > [!info] Add Adventure Seed
-> Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do i
+> Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
 
 # Setting
 ```dataview
