@@ -5,12 +5,8 @@ created: 2023-07-07 11:29
 
 # Adventure seed
 
-An artifact has been stolen from a merchant in the Trade Ward. Their potential employer, a human merchant named [[Lina Devdan]] has asked to meet them to discuss the matter. They have two leads:
-
-- A scrap of skin from some unknown creature
-- A small wooden box (with a secret compartment)
-
-These were found after the robbery took place.
+> [!info] Add Adventure Seed
+> Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do i
 
 # Setting
 ```dataview
