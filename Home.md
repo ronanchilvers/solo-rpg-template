@@ -5,7 +5,10 @@ created: 2023-07-07 11:29
 
 # Adventure seed
 
-![[cypher-system.png|right|200]]
+<!-- Choose a logo to suit the system you're using -->
+![[cypher-system.png|right|150]]
+![[tiny-dungeon-2e.webp|right|150]]
+
 > [!info] Add Adventure Seed
 > Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
 

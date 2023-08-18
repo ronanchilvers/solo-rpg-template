@@ -4,7 +4,7 @@
       "id": "2484d28b-61bc-403c-b5aa-d02a711e3535",
       "name": "New Scene",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "_templates/Scene - Template.md",
       "fileNameFormat": {
         "enabled": false,
