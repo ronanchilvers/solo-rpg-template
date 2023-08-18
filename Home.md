@@ -1,25 +1,14 @@
 ---
 created: 2023-07-07 11:29
 ---
-![[Tiny Dungeon 2e - Banner.jpg]]
-
-# Adventure seed
+![[adventure banner here.jpg]]
 
 <!-- Choose a logo to suit the system you're using -->
 ![[cypher-system.png|right|150]]
 ![[tiny-dungeon-2e.webp|right|150]]
 
-> [!info] Add Adventure Seed
+> [!abstract]- The Adventure Seed
 > Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
-
-> [!abstract]- Adventure Seed
-> An artifact has been stolen from a merchant in the Trade Ward. Their potential employer, a human
-> merchant named [[Lina Devdan]] has asked to meet them to discuss the matter. They have two
-> leads:
-> - A scrap of skin from some unknown creature
-> - A small wooden box (with a secret compartment)
-> 
-> These were found after the robbery took place.
 
 # Maps
 ```button
