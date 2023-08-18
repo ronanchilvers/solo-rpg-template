@@ -1,5 +1,36 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "2484d28b-61bc-403c-b5aa-d02a711e3535",
+      "name": "New Scene",
+      "type": "Template",
+      "command": false,
+      "templatePath": "_templates/Scene - Template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Game/Scenes"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "source",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
