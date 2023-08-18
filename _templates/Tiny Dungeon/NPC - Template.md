@@ -1,6 +1,6 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-tags: [npc]
+tags: [tiny-d6,npc]
 aliases:
 summary: 
 une: 

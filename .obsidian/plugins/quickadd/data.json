@@ -5,7 +5,7 @@
       "name": "New Scene",
       "type": "Template",
       "command": true,
-      "templatePath": "_templates/Scene - Template.md",
+      "templatePath": "_templates/Mythic/Scene - Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
