@@ -10,20 +10,6 @@ created: 2023-07-07 11:29
 > [!abstract]- The Adventure Seed
 > Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
 
-# Maps
-```button
-name Create new map
-type command
-action Quickadd: New Map
-```
-^button-new-map
-```dataview
-List 
-From -"_templates"
-Where contains(file.tags, "map")
-Sort file.name
-```
-
 # Scenes
 ```button
 name Create new scene
@@ -49,6 +35,20 @@ action Quickadd: New Character
 List 
 From -"_templates"
 Where contains(file.tags, "character")
+Sort file.name
+```
+
+# Maps
+```button
+name Create new map
+type command
+action Quickadd: New Map
+```
+^button-new-map
+```dataview
+List 
+From -"_templates"
+Where contains(file.tags, "map")
 Sort file.name
 ```
 
